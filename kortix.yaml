@@ -1,0 +1,15 @@
+version: "2"
+project:
+  name: eigent-alternative-starter
+  description: A company-wide agent system you own, on Kortix.
+machine:
+  image: kortix/base:latest
+agents:
+  researcher:
+    file: agents/researcher.md
+    connectors: all
+triggers:
+  - slug: weekly-brief
+    type: cron
+    cron: "0 9 * * 1"
+    prompt: "Summarize last week's merged changes and open a change request with the brief."
