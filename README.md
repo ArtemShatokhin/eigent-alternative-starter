@@ -47,5 +47,9 @@ Prefer zero setup? Sign up at [kortix.com](https://kortix.com), create a project
 - [Open-source Eigent alternatives, compared](https://eigentalternative.com/eigent-alternatives)
 - [Self-hosting an Eigent alternative: what you actually own](https://eigentalternative.com/self-hosting-eigent-alternative)
 - [Eigent pricing vs an open-source system](https://eigentalternative.com/eigent-pricing)
+- [Eigent vs OpenHands](https://eigentalternative.com/eigent-vs-openhands)
+- [Eigent vs OpenWork](https://eigentalternative.com/eigent-vs-openwork)
+- [Eigent vs Manus](https://eigentalternative.com/eigent-vs-manus)
+- [Eigent on GitHub: where the repo lives and how to run it](https://eigentalternative.com/eigent-github)
 
 Kortix is the open-source AI Operating System. Self-host for free, or use Kortix Cloud.
